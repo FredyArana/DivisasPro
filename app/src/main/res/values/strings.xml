@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">DivisaPro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="logo">Logo de la universidad</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="ingrese_correo">Ingrese correo</string>
+    <string name="ingrese_contraseña">Ingrese contraseña</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="toggle_password_visibility">Mostrar/Ocultar contraseña</string>
+    <string name="contactanos">Contáctanos</string>
+    <string name="ubicanos">Ubícanos</string>
+
+
+    <string-array name="currencies_array">
+        <item>USD</item> <!-- Dólar estadounidense -->
+        <item>EUR</item> <!-- Euro -->
+        <item>MXN</item> <!-- Peso mexicano -->
+    </string-array>
+
+</resources>
