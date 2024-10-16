@@ -13,10 +13,10 @@
     <string name="ubicanos">Ubícanos</string>
 
 
-    <string-array name="currencies_array">
-        <item>USD</item> <!-- Dólar estadounidense -->
-        <item>EUR</item> <!-- Euro -->
-        <item>MXN</item> <!-- Peso mexicano -->
+    <string-array name="monedas">
+        <item>Dólares</item>
+        <item>Euros</item>
+        <item>Pesos Mexicanos</item>
     </string-array>
 
 </resources>
